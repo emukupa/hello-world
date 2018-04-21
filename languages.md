@@ -6,99 +6,99 @@
   - [ ] Kotlin
 
   ## Old and Cool
-    - [ ] C
-    - [ ] C++
-    - [ ] C#
-    - [ ] Java
-    - [ ] Objective-C
+  - [ ] C
+  - [ ] C++
+  - [ ] C#
+  - [ ] Java
+  - [ ] Objective-C
 
   ## Must Know
-    - [x] HTML
-    - [x] CSS
-    - [x] Javascript
-    - [x] SQL
-    - [ ] Typescript
-    - [ ] Python
-    - [ ] Ruby
-    - [x] PHP
-    - [ ] Swift
-    - [ ] Kotlin
-    - [ ] Go
-    - [ ] Haskel - functional
+  - [x] HTML
+  - [x] CSS
+  - [x] Javascript
+  - [x] SQL
+  - [ ] Typescript
+  - [ ] Python
+  - [ ] Ruby
+  - [x] PHP
+  - [ ] Swift
+  - [ ] Kotlin
+  - [ ] Go
+  - [ ] Haskel - functional
 
   ## Maybe Know
-    - [ ] Closure
-    - [ ] Scala
-    - [ ] R
-    - [ ] Elang
-    - [ ] Rust
-    - [ ] Pearl
+  - [ ] Closure
+  - [ ] Scala
+  - [ ] R
+  - [ ] Elang
+  - [ ] Rust
+  - [ ] Pearl
 
 # Preprocessors
   ## HTML Preprocessors
-    - [ ] Haml
-    - [ ] Markdown
-    - [ ] Slim
-    - [ ] Pug
+  - [ ] Haml
+  - [ ] Markdown
+  - [ ] Slim
+  - [ ] Pug
 
   ## CSS Preprocessors
-    - [x] Less
-    - [ ] SCSS
-    - [ ] PostCSS
-    - [ ] Sass
-    - [ ] Stylus
+  - [x] Less
+  - [ ] SCSS
+  - [ ] PostCSS
+  - [ ] Sass
+  - [ ] Stylus
 
   ## Javascript Preprocessors
-    - [ ] Typescript
-    - [ ] Babel
-    - [ ] Livescript
-    - [ ] CoffeScript
+  - [ ] Typescript
+  - [ ] Babel
+  - [ ] Livescript
+  - [ ] CoffeScript
 
 # Content Management System (CMS)  
   ## PHP
-    - [x] Wordpress
-    - [ ] Drupal
-    - [ ] Joomla
+  - [x] Wordpress
+  - [ ] Drupal
+  - [ ] Joomla
 
 # Frameworks/Libraries
   ## CSS
-    - [ ] BootStrap
-    - [ ] Materialize
-    - [ ] Balma
-    - [ ] Foundation
-    - [ ] Animate.css
-    - [ ] Bulma
+  - [ ] BootStrap
+  - [ ] Materialize
+  - [ ] Balma
+  - [ ] Foundation
+  - [ ] Animate.css
+  - [ ] Bulma
 
   ## Javascript Frameworks/Libraries
-    - [x] jquery
-    - [ ] jquery ui
-    - [ ] jquery mobile
-    - [x] React
-    - [ ] React Native
-    - [ ] Angular
-    - [ ] Vue
-    - [ ] Backbone
-    - [ ] Ember
-    - [ ] D3
-    - [ ] GreenSock TwinMax
-    - [ ] Handlebars
-    - [ ] Lodash
-    - [ ] canvasjs
-    - [ ] Modernizr
-    - [ ] Polyfill.io
-    - [ ] Polymer
-    - [ ] express
+  - [x] jquery
+  - [ ] jquery ui
+  - [ ] jquery mobile
+  - [x] React
+  - [ ] React Native
+  - [ ] Angular
+  - [ ] Vue
+  - [ ] Backbone
+  - [ ] Ember
+  - [ ] D3
+  - [ ] GreenSock TwinMax
+  - [ ] Handlebars
+  - [ ] Lodash
+  - [ ] canvasjs
+  - [ ] Modernizr
+  - [ ] Polyfill.io
+  - [ ] Polymer
+  - [ ] express
 
   ## PHP
-    - [ ] Laravel
+  - [ ] Laravel
 
   ## Python
-    - [ ] Django
-    - [ ] Flask
+  - [ ] Django
+  - [ ] Flask
 
   ## Ruby
-    - [ ] Ruby on Rails
-    
+  - [ ] Ruby on Rails
+
 # paradigms
   * Design patterns
   * Object Oriented (OOP)
