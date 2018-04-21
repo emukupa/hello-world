@@ -91,6 +91,7 @@
 
   ## PHP
   - [ ] Laravel
+  - [ ] Symphony
 
   ## Python
   - [ ] Django
