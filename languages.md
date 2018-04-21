@@ -1,7 +1,4 @@
 # Programming Languages
-
-, CMS, Frameworks and paradigms
-
   ## Cool and new
     - [ ] WebAssembly
     - [x] Node.js
@@ -101,3 +98,10 @@
 
   ## Ruby
     - [ ] Ruby on Rails
+    
+# paradigms
+  * Design patterns
+  * Object Oriented (OOP)
+  * Imperative
+  * Procedural
+# UX and UI design
