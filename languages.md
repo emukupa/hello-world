@@ -1,9 +1,9 @@
 # Programming Languages
   ## Cool and new
    - [ ] WebAssembly
-  - [x] Node.js
-  - [ ] Swift
-  - [ ] Kotlin
+    - [x] Node.js
+    - [ ] Swift
+    - [ ] Kotlin
 
   ## Old and Cool
     - [ ] C
