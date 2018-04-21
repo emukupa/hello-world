@@ -5,7 +5,7 @@
   - [x] Backend developer
   - [x] Fullstack developer 
   - [ ] UX/UI
-  - [ ] [BEM](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
+  - [ ] [Naming conventions, BEM ](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
   - [ ] Atomic
   
  ## Frontend technologies
@@ -29,12 +29,26 @@
  ## CSS Preprocessors
   - [x] Less
   - [ ] SCSS
+  - [ ] PostCSS
   - [ ] Sass
   - [ ] Stylus
-  ### Master Less
+  ### Master Less then Sass
   
+ ## Javascript Preprocessors
+  - [ ] Typescript
+  - [ ] Babel
+  - [ ] Livescript
+  - [ ] CoffeScript
+  ### Master Typescript
+ 
  ## CSS Frameworks/Libraries
-  - [] xcc
+  - [ ] BootStrap
+  - [ ] Materialize
+  - [ ] Balma
+  - [ ] Foundation
+  - [ ] Animate.css
+  - [ ] Bulma
+  ### Master BootStrap
  
  ## Javascript Frameworks/Libraries
   - [x] jquery
@@ -44,4 +58,27 @@
   - [ ] React Native
   - [ ] Angular
   - [ ] Vue
+  - [ ] Backbone
+  - [ ] Ember
+  - [ ] D3
+  - [ ] GreenSock TwinMax
+  - [ ] Handlebars
+  - [ ] Lodash
+  - [ ] canvasjs
+  - [ ] Modernizr
+  - [ ] Polyfill.io
+  - [ ] Polymer
+  ### Master react and jquery then go all in vue. Also Master D3
+  
+## Web Technology
+  - [ ] canvas
+  - [ ] webgl
+  - [ ] Audio/video API
+  - [ ] Speech API
+  
+## Backend Languages
+  - [x] Node.js
+  - [x] PHP 
+  - [ ] Python
+  - [ ] Ruby
   
