@@ -8,11 +8,12 @@
   - [ ] Swift
   - [ ] Kotlin
 
-  ## Old and Cool
+  ## Need to Know
   - [ ] C
   - [ ] C++
   - [ ] C#
   - [ ] Java
+  - [ ] Rust
   - [ ] Objective-C
 
   ## Must Know
@@ -34,7 +35,6 @@
   - [ ] Scala
   - [ ] R
   - [ ] Elang
-  - [ ] Rust
   - [ ] Pearl
 
 # Preprocessors
