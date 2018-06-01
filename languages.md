@@ -1,6 +1,9 @@
 # Programming Languages
   ## Cool and new
   - [ ] WebAssembly
+  ### Play Grounds
+  * [WebAssembly Explorer](http://mbebenita.github.io/WasmExplorer/)
+  * [WasmFiddle](https://wasdk.github.io/WasmFiddle/)
   - [x] Node.js
   - [ ] Swift
   - [ ] Kotlin
